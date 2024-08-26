@@ -282,7 +282,7 @@
     <string name="CLAN">"CLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Especifica la ID del clan"</string>
+    <string name="Specify_Clan_ID">"Especifica el ID del clan"</string>
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
@@ -374,7 +374,7 @@
     <string name="Player_XP">"EXP Jugadores"</string>
 
     <string name="W_D_L">"G-E-P"</string>
-    <string name="MATCH_START">"COMIENZA PARTIDA"</string>
+    <string name="MATCH_START">"COMENZAR PARTIDA"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una Guerra de Clanes"</string>
     <string name="Global">"Global"</string>
@@ -811,7 +811,7 @@
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
-    <string name="Not_Registered">No registrado</string>
+    <string name="Not_Registered">No estas registrado</string>
     <string name="Prize_Pool">Premio total:</string>
     <string name="Registrants">Registrados:</string>
     <string name="Round_Of">Ronda de</string>
