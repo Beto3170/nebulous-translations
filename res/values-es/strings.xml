@@ -2,8 +2,8 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
+    <string name="Stick_Size_">"Tamaño del pad:"</string>
+    <string name="Stick_Margin_">"Ubicación del pad:"</string>
     <string name="Button_Size_">"Tamaño botones:"</string>
     <string name="Button_Margin_">"Margen botones:"</string>
     <string name="Buttons_">"Botones:"</string>
@@ -11,7 +11,7 @@
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIARIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Juego:"</string>
+    <string name="Game_Mode_">"Modo del Juego:"</string>
     <string name="Show_Names">"Mostrar Nombres"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JUGAR"</string>
@@ -21,7 +21,7 @@
     <string name="Name_">"Nombre:"</string>
 
     <string name="Loading___">"Cargando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
+    <string name="Connecting___">"Conectando……"</string>
 
     <string name="Are_You_Sure_">"¿Estás seguro?"</string>
     <string name="Yes">"Sí"</string>
